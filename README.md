@@ -4,9 +4,12 @@
 
 - 一个基于[Worker-Mailer](https://github.com/zou-yu/worker-mailer/tree/main)的电费预警通知系统
 
+
 ## 如何使用
 
 可以在已经部署的worker，通过 `workername.xxx.workers.dev/学校代码/学号` 查询学号下绑定的房间，在网页中填写邮箱即可开启通知。
+
+[学校代码查看处](https://github.com/zuwei522/perfect-campus_electricity-alert/blob/ef06292f46acbbd322480095eef2f1be2382c44e/school-list.md)，（倘若你没能找到自己的学校代码，那只能自己抓包了）
 
 <img width="971" height="796" alt="image" src="https://github.com/user-attachments/assets/e413c878-a9e8-446d-89f1-477a16025702" />
 
