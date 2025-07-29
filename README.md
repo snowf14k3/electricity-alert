@@ -4,6 +4,7 @@
 
 - 一个基于[Worker-Mailer](https://github.com/zou-yu/worker-mailer/tree/main)的电费预警通知系统
 
+- [体验链接](https://room.snowflak3.icu/)
 
 ## 如何使用
 
