@@ -1,0 +1,14 @@
+name = "electricity-alert"
+compatibility_date = "2025-02-11"
+compatibility_flags = [ "nodejs_compat" ]
+
+[observability.logs]
+enabled = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "users"
+database_id = "id"
+
+[triggers]
+crons = ["0 4,11 * * *"]
